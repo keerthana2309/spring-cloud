@@ -1,4 +1,4 @@
-datasource:
+  datasource:
     driver-class-name: oracle.jdbc.driver.OracleDriver
     username: HR
     password: HR
